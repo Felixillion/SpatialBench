@@ -18,6 +18,9 @@
 
 ## Quickstart
 
+**NOTE**
+*UnumLocalia has been developed on Mac OS, so there may be unresolved bugs if using Windows or Linux.*
+
 **Three steps for non‑programmers**
 
 1. **Install Miniforge and mamba**  
@@ -47,7 +50,7 @@ python -m pip install -e .
     - In the Data tab, click **Browse**, select the dataset folder, then click **Load Dataset (Manifest)**.
 
 Example datasets are hosted on Zenodo:
-DOI: <INSERT DOI>
+[DOI: 10.5281/zenodo.21713660](https://zenodo.org/records/21713660)
 
 ---
 
@@ -272,7 +275,8 @@ The Zenodo archive contains:
 If you use UnumLocalia in your research, please cite:
 
 > *An open multimodal spatial resource integrating same-tissue transcriptomics, proteomics, and histology.*
-> (manuscript in preparation)
+> Duchini E, Tsao C, Madore J, Ashhurst TM, De Almeida Silva J, Shin J, Gupta R, McCaughan G, Palendira U, Liu K, Ferguson A*, Marsh-Wakefield F*. *Authors contributed equally.
+> [bioRxiv link coming soon]
 
 ---
 
